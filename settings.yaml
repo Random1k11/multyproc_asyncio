@@ -1,0 +1,5 @@
+SCRAPER:
+  URL: https://www.stockfreeimages.com/
+  ITEM: cats
+  OUT_DIR: images
+  AMOUNT_PAGES: 10
